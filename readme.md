@@ -1,4 +1,4 @@
 # Repo Untuk Mengerjakan Tugas Section 5 Soal Git Priotas 2
 
 Nama : Mochammad Haikal Alfandi Subagyo <br>
-Kelas : A
+Kelas : A <br>
