@@ -2,4 +2,4 @@
 
 Nama : Mochammad Haikal Alfandi Subagyo <br>
 Kelas : A <br>
-Kota : Cirebon <br>
+Kota : Kota Cirebon <br>
